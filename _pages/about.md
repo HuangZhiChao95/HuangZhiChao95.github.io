@@ -9,13 +9,22 @@ redirect_from:
 ---
 
 # About Me
-I am currently a fourth-year Ph.D student in [Department of Mathematics](https://www.math.hkust.edu.hk), [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk), supervised by [Prof. Tong Zhang](http://tongzhang-ml.org) starting from Sep 2018. Before my Ph.D journey, I obtained my Bachelor degree in [Electronic Engineering](http://www.ee.tsinghua.edu.cn/) from [Tsinghua University](https://www.tsinghua.edu.cn/).
+I am currently a Research Scientist in ByteDance AI-Lab. Before joining ByteDance, I received my Ph.D degree in [Mathematics](https://www.math.hkust.edu.hk) from [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk), supervised by [Prof. Tong Zhang](http://tongzhang-ml.org). Before that, I obtained my Bachelor degree in [Electronic Engineering](http://www.ee.tsinghua.edu.cn/) from [Tsinghua University](https://www.tsinghua.edu.cn/).
 
-I am interested in broader topics in machine learning and computer vision. Currently, I am working on adversarial examples.
+I am interested in broader topics in machine learning, including adversarial robustness and large language models.
 
 # Publications
 - [**Fast Adversarial Training with Adaptive Step Size**](https://arxiv.org/pdf/2206.02417)
   <br /> **Zhichao Huang**, Yanbo Fan, Chen Liu, Weizhong Zhang, Yong Zhang, Mathieu Salzmann, Sabine Süsstrunk, Jue Wang
+  <!-- <br /> Transcation on Image Processing (TIP) -->
+- [**Towards Stable and Efficient Adversarial Training against $\ell_1$  Bounded Adversarial Attacks**](https://proceedings.mlr.press/v202/jiang23f/jiang23f.pdf)
+  <br /> Yulun Jiang, Chen Liu, **Zhichao Huang**, Mathieu Salzmann, Sabine Süsstrunk
+  <br /> Fortieth International Conference on Machine Learning (ICML 2023)
+  <br /> [[code](https://github.com/IVRL/FastAdvL1)]
+- [**Black-Box Prompt Learning for Pre-trained Language Models**](https://openreview.net/forum?id=IvsGP7xRvm)
+  <br /> Shizhe Diao, **Zhichao Huang**, Ruijia Xu, Xuechun Li, Yong Lin, Xiao Zhou, Tong Zhang
+  <br /> Transactions on Machine Learning Research (TMLR)
+  <br /> [[code](https://github.com/shizhediao/Black-Box-Prompt-Learning)]
 - [**On the Impact of Hard Adversarial Instances on Overfitting in Adversarial Training**](https://arxiv.org/pdf/2112.07324.pdf)
   <br />Chen Liu, **Zhichao Huang**, Mathieu Salzmann, Tong Zhang, Sabine Süsstrunk
 - [**Few-Shot Human Motion Transfer by Personalized Geometry and Texture Modeling**](https://arxiv.org/pdf/2103.14338)
@@ -67,4 +76,4 @@ I am interested in broader topics in machine learning and computer vision. Curre
 - HKUST Postgraduate Studentship, 2018-2022
 
 # Academic Service
-- Reviewer of ICML, NeurIPS, ICLR, T-PAMI and IJCV
+- Reviewer of ICML, NeurIPS, ICLR, T-PAMI, IJCV, SIMODS
