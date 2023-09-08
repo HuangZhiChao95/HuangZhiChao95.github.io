@@ -14,9 +14,12 @@ I am currently a Research Scientist in ByteDance AI-Lab. Before joining ByteDanc
 I am interested in broader topics in machine learning, including adversarial robustness and large language models.
 
 # Publications
+- [**RepCodec: A Speech Representation Codec for Speech Tokenization**](https://arxiv.org/pdf/2309.00169.pdf)
+  <br /> **Zhichao Huang**\*, Chutong Meng\*, Tom Ko
+  <br /> [[code](https://github.com/mct10/RepCodec)]
 - [**Fast Adversarial Training with Adaptive Step Size**](https://arxiv.org/pdf/2206.02417)
   <br /> **Zhichao Huang**, Yanbo Fan, Chen Liu, Weizhong Zhang, Yong Zhang, Mathieu Salzmann, Sabine Süsstrunk, Jue Wang
-  <!-- <br /> Transcation on Image Processing (TIP) -->
+  <br /> Transcation on Image Processing (TIP)
 - [**Towards Stable and Efficient Adversarial Training against $\ell_1$  Bounded Adversarial Attacks**](https://proceedings.mlr.press/v202/jiang23f/jiang23f.pdf)
   <br /> Yulun Jiang, Chen Liu, **Zhichao Huang**, Mathieu Salzmann, Sabine Süsstrunk
   <br /> Fortieth International Conference on Machine Learning (ICML 2023)
