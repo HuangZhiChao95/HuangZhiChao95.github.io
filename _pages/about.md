@@ -14,9 +14,7 @@ I am currently a Research Scientist in ByteDance AI-Lab. Before joining ByteDanc
 I am interested in broader topics in machine learning, including adversarial robustness and large language models.
 
 # Publications
-- [**RepCodec: A Speech Representation Codec for Speech Tokenization**](https://arxiv.org/pdf/2309.00169.pdf)
-  <br /> **Zhichao Huang**\*, Chutong Meng\*, Tom Ko
-  <br /> [[code](https://github.com/mct10/RepCodec)]
+
 - [**Fast Adversarial Training with Adaptive Step Size**](https://arxiv.org/pdf/2206.02417)
   <br /> **Zhichao Huang**, Yanbo Fan, Chen Liu, Weizhong Zhang, Yong Zhang, Mathieu Salzmann, Sabine Süsstrunk, Jue Wang
   <br /> Transcation on Image Processing (TIP)
@@ -37,8 +35,6 @@ I am interested in broader topics in machine learning, including adversarial rob
 - [**Stochastic Recursive Gradient Descent Ascent for Stochastic Nonconvex-Strongly-Concave Minimax Problems**](https://proceedings.neurips.cc/paper/2020/file/ecb47fbb07a752413640f82a945530f8-Paper.pdf)
   <br />Luo Luo, Haishan Ye, **Zhichao Huang**, Tong Zhang
   <br />34th Conference on Neural Information Processing Systems (NeurIPS 2020)
-- [**CorrAttack: Black-box Adversarial Attack with Structured Search**](https://arxiv.org/pdf/2010.01250)
-  <br />**Zhichao Huang**\*, Yaowei Huang\*, Tong Zhang  (*\*equal contribution*)
 - [**Black-box Adversarial Attack with Transferable Model-Based Embedding**](https://openreview.net/pdf?id=SJxhNTNYwB)<br />**Zhichao Huang**, Tong Zhang
   <br />Eighth International Conference on Learning Representations (ICLR 2020)
   <br />[[code](https://github.com/TransEmbedBA/TREMBA)]
@@ -48,6 +44,16 @@ I am interested in broader topics in machine learning, including adversarial rob
 - [**Enhancing CNN Incremental Learning Capability with an Expanded Network**](https://ieeexplore.ieee.org/abstract/document/8486457)
   <br />Shanshan Cai\*, Zhuwei Xu\*, **Zhichao Huang**\*, Yueru Chen, C.-C. Jay Kuo
   <br />2018 IEEE International Conference on Multimedia and Expo (ICME 2018) (*\*equal contribution*)
+
+# Preprints
+- [**Speech Translation with Large Language Models: An Industrial Practice**](https://arxiv.org/pdf/2312.13585.pdf)
+  <br /> **Zhichao Huang**, Rong Ye, Tom Ko, Qianqian Dong, Shanbo Cheng, Mingxuan Wang, Hang Li
+  <br /> [[demo](https://speechtranslation.github.io/llm-st/)]
+- [**RepCodec: A Speech Representation Codec for Speech Tokenization**](https://arxiv.org/pdf/2309.00169.pdf)
+  <br /> **Zhichao Huang**\*, Chutong Meng\*, Tom Ko
+  <br /> [[code](https://github.com/mct10/RepCodec)]
+- [**CorrAttack: Black-box Adversarial Attack with Structured Search**](https://arxiv.org/pdf/2010.01250)
+  <br />**Zhichao Huang**\*, Yaowei Huang\*, Tong Zhang  (*\*equal contribution*)
 
 # Experiences
 - **Research Intern, Tencent AI Lab**, *Shenzhen, China*
