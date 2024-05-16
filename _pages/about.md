@@ -30,8 +30,6 @@ I am interested in broader topics in machine learning, including adversarial rob
   <br /> Shizhe Diao, **Zhichao Huang**, Ruijia Xu, Xuechun Li, Yong Lin, Xiao Zhou, Tong Zhang
   <br /> Transactions on Machine Learning Research (TMLR)
   <br /> [[code](https://github.com/shizhediao/Black-Box-Prompt-Learning)]
-- [**On the Impact of Hard Adversarial Instances on Overfitting in Adversarial Training**](https://arxiv.org/pdf/2112.07324.pdf)
-  <br />Chen Liu, **Zhichao Huang**, Mathieu Salzmann, Tong Zhang, Sabine Süsstrunk
 - [**Few-Shot Human Motion Transfer by Personalized Geometry and Texture Modeling**](https://arxiv.org/pdf/2103.14338)
   <br />**Zhichao Huang**, Xintong Han, Jia Xu, Tong Zhang
   <br />2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2021)
@@ -53,6 +51,8 @@ I am interested in broader topics in machine learning, including adversarial rob
 - [**Speech Translation with Large Language Models: An Industrial Practice**](https://arxiv.org/pdf/2312.13585.pdf)
   <br /> **Zhichao Huang**, Rong Ye, Tom Ko, Qianqian Dong, Shanbo Cheng, Mingxuan Wang, Hang Li
   <br /> [[demo](https://speechtranslation.github.io/llm-st/)]
+- [**On the Impact of Hard Adversarial Instances on Overfitting in Adversarial Training**](https://arxiv.org/pdf/2112.07324.pdf)
+  <br />Chen Liu, **Zhichao Huang**, Mathieu Salzmann, Tong Zhang, Sabine Süsstrunk
 - [**CorrAttack: Black-box Adversarial Attack with Structured Search**](https://arxiv.org/pdf/2010.01250)
   <br />**Zhichao Huang**\*, Yaowei Huang\*, Tong Zhang  (*\*equal contribution*)
 
