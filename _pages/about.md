@@ -21,6 +21,7 @@ I am interested in broader topics in machine learning, including adversarial rob
 - [**Fast Adversarial Training with Adaptive Step Size**](https://arxiv.org/pdf/2206.02417)
   <br /> **Zhichao Huang**, Yanbo Fan, Chen Liu, Weizhong Zhang, Yong Zhang, Mathieu Salzmann, Sabine Süsstrunk, Jue Wang
   <br /> Transcation on Image Processing (TIP)
+  <br /> [[code](https://github.com/HuangZhiChao95/ATAS)]
 - [**Towards Stable and Efficient Adversarial Training against $\ell_1$  Bounded Adversarial Attacks**](https://proceedings.mlr.press/v202/jiang23f/jiang23f.pdf)
   <br /> Yulun Jiang, Chen Liu, **Zhichao Huang**, Mathieu Salzmann, Sabine Süsstrunk
   <br /> Fortieth International Conference on Machine Learning (ICML 2023)
