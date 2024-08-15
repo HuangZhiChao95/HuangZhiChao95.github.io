@@ -9,14 +9,22 @@ redirect_from:
 ---
 
 # About Me
-I am currently a Research Scientist in ByteDance AI-Lab. Before joining ByteDance, I received my Ph.D degree in [Mathematics](https://www.math.hkust.edu.hk) from [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk), supervised by [Prof. Tong Zhang](http://tongzhang-ml.org). Before that, I obtained my Bachelor degree in [Electronic Engineering](http://www.ee.tsinghua.edu.cn/) from [Tsinghua University](https://www.tsinghua.edu.cn/).
+I am currently a Research Scientist in ByteDance Research. Before joining ByteDance, I received my Ph.D degree in [Mathematics](https://www.math.hkust.edu.hk) from [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk), supervised by [Prof. Tong Zhang](http://tongzhang-ml.org). Before that, I obtained my Bachelor degree in [Electronic Engineering](http://www.ee.tsinghua.edu.cn/) from [Tsinghua University](https://www.tsinghua.edu.cn/).
 
 I am interested in broader topics in machine learning, including adversarial robustness and large language models.
+
+# Tech Reports
+- [**Towards Achieving Human Parity on End-to-end Simultaneous Speech Translation via LLM Agent**](https://arxiv.org/pdf/2407.21646)
+  <br /> Shanbo Cheng, **Zhichao Huang**, Tom Ko, Hang Li, Ningxin Peng, Lu Xu, Qini Zhang ($\alpha-\beta$ order)
+  <br /> [[project page](https://byteresearchcla.github.io/clasi/)]
+- [**Speech Translation with Large Language Models: An Industrial Practice**](https://arxiv.org/pdf/2312.13585.pdf)
+  <br /> **Zhichao Huang**, Rong Ye, Tom Ko, Qianqian Dong, Shanbo Cheng, Mingxuan Wang, Hang Li
+  <br /> [[demo](https://speechtranslation.github.io/llm-st/)]
 
 # Publications
 - [**RepCodec: A Speech Representation Codec for Speech Tokenization**](https://arxiv.org/pdf/2309.00169.pdf)
   <br /> **Zhichao Huang**\*, Chutong Meng\*, Tom Ko
-  <br /> The 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024)
+  <br /> The 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024) [Oral]
   <br /> [[code](https://github.com/mct10/RepCodec)]
 - [**Fast Adversarial Training with Adaptive Step Size**](https://arxiv.org/pdf/2206.02417)
   <br /> **Zhichao Huang**, Yanbo Fan, Chen Liu, Weizhong Zhang, Yong Zhang, Mathieu Salzmann, Sabine Süsstrunk, Jue Wang
@@ -46,11 +54,6 @@ I am interested in broader topics in machine learning, including adversarial rob
 - [**Enhancing CNN Incremental Learning Capability with an Expanded Network**](https://ieeexplore.ieee.org/abstract/document/8486457)
   <br />Shanshan Cai\*, Zhuwei Xu\*, **Zhichao Huang**\*, Yueru Chen, C.-C. Jay Kuo
   <br />2018 IEEE International Conference on Multimedia and Expo (ICME 2018) (*\*equal contribution*)
-
-# Preprints
-- [**Speech Translation with Large Language Models: An Industrial Practice**](https://arxiv.org/pdf/2312.13585.pdf)
-  <br /> **Zhichao Huang**, Rong Ye, Tom Ko, Qianqian Dong, Shanbo Cheng, Mingxuan Wang, Hang Li
-  <br /> [[demo](https://speechtranslation.github.io/llm-st/)]
 - [**On the Impact of Hard Adversarial Instances on Overfitting in Adversarial Training**](https://arxiv.org/pdf/2112.07324.pdf)
   <br />Chen Liu, **Zhichao Huang**, Mathieu Salzmann, Tong Zhang, Sabine Süsstrunk
 - [**CorrAttack: Black-box Adversarial Attack with Structured Search**](https://arxiv.org/pdf/2010.01250)
