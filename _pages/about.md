@@ -22,6 +22,10 @@ I am interested in broader topics in machine learning, including adversarial rob
   <br /> [[demo](https://speechtranslation.github.io/llm-st/)]
 
 # Publications
+- [**On the Impact of Hard Adversarial Instances on Overfitting in Adversarial Training**](https://www.jmlr.org/papers/volume25/22-0950/22-0950.pdf)
+  <br />Chen Liu, **Zhichao Huang**, Mathieu Salzmann, Tong Zhang, Sabine Süsstrunk
+  <br /> Journal of Machine Learning Research (JMLR)
+  <br /> [[code](https://github.com/IVRL/RobustOverfit-HardInstance)]
 - [**RepCodec: A Speech Representation Codec for Speech Tokenization**](https://arxiv.org/pdf/2309.00169.pdf)
   <br /> **Zhichao Huang**\*, Chutong Meng\*, Tom Ko
   <br /> The 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024) [Oral]
@@ -54,8 +58,6 @@ I am interested in broader topics in machine learning, including adversarial rob
 - [**Enhancing CNN Incremental Learning Capability with an Expanded Network**](https://ieeexplore.ieee.org/abstract/document/8486457)
   <br />Shanshan Cai\*, Zhuwei Xu\*, **Zhichao Huang**\*, Yueru Chen, C.-C. Jay Kuo
   <br />2018 IEEE International Conference on Multimedia and Expo (ICME 2018) (*\*equal contribution*)
-- [**On the Impact of Hard Adversarial Instances on Overfitting in Adversarial Training**](https://arxiv.org/pdf/2112.07324.pdf)
-  <br />Chen Liu, **Zhichao Huang**, Mathieu Salzmann, Tong Zhang, Sabine Süsstrunk
 - [**CorrAttack: Black-box Adversarial Attack with Structured Search**](https://arxiv.org/pdf/2010.01250)
   <br />**Zhichao Huang**\*, Yaowei Huang\*, Tong Zhang  (*\*equal contribution*)
 
