@@ -14,6 +14,10 @@ I am currently a Research Scientist in ByteDance Research. Before joining ByteDa
 I am interested in broader topics in machine learning, including adversarial robustness and large language models.
 
 # Tech Reports
+- [**Seed LiveInterpret 2.0: End-to-end Simultaneous Speech-to-speech Translation with Your Voice**](https://arxiv.org/pdf/2507.17527)
+  <br /> [[Project Page](https://seed.bytedance.com/en/seed_liveinterpret)]
+- [**Seed-X: Building Strong Multilingual Translation LLM with 7B Parameters**](https://arxiv.org/pdf/2507.13618)
+  <br /> [[Project Page](https://github.com/ByteDance-Seed/Seed-X-7B)]
 - [**Towards Achieving Human Parity on End-to-end Simultaneous Speech Translation via LLM Agent**](https://arxiv.org/pdf/2407.21646)
   <br /> Shanbo Cheng, **Zhichao Huang**, Tom Ko, Hang Li, Ningxin Peng, Lu Xu, Qini Zhang ($\alpha-\beta$ order)
   <br /> [[project page](https://byteresearchcla.github.io/clasi/)]
