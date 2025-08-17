@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 # About Me
-I am currently a Research Scientist in ByteDance Research. Before joining ByteDance, I received my Ph.D degree in [Mathematics](https://www.math.hkust.edu.hk) from [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk), supervised by [Prof. Tong Zhang](http://tongzhang-ml.org). Before that, I obtained my Bachelor degree in [Electronic Engineering](http://www.ee.tsinghua.edu.cn/) from [Tsinghua University](https://www.tsinghua.edu.cn/).
+I am currently a Research Scientist in ByteDance Seed. Before joining ByteDance, I received my Ph.D degree in [Mathematics](https://www.math.hkust.edu.hk) from [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk), supervised by [Prof. Tong Zhang](http://tongzhang-ml.org). Before that, I obtained my Bachelor degree in [Electronic Engineering](http://www.ee.tsinghua.edu.cn/) from [Tsinghua University](https://www.tsinghua.edu.cn/).
 
-I am interested in broader topics in machine learning, including adversarial robustness and large language models.
+<!-- I am interested in broader topics in machine learning large language models. -->
 
 # Tech Reports
 - [**Towards Achieving Human Parity on End-to-end Simultaneous Speech Translation via LLM Agent**](https://arxiv.org/pdf/2407.21646)
@@ -22,6 +22,9 @@ I am interested in broader topics in machine learning, including adversarial rob
   <br /> [[demo](https://speechtranslation.github.io/llm-st/)]
 
 # Publications
+- [**SeqPO-SiMT: Sequential Policy Optimization for Simultaneous Machine Translation**](https://arxiv.org/pdf/2505.20622)
+  <br />Ting Xu, **Zhichao Huang†**, Jiankai Sun, Shanbo Cheng, Wai Lam
+  <br /> ACL 2025 Findings (†correspoding author)
 - [**On the Impact of Hard Adversarial Instances on Overfitting in Adversarial Training**](https://www.jmlr.org/papers/volume25/22-0950/22-0950.pdf)
   <br />Chen Liu, **Zhichao Huang**, Mathieu Salzmann, Tong Zhang, Sabine Süsstrunk
   <br /> Journal of Machine Learning Research (JMLR)
@@ -52,9 +55,9 @@ I am interested in broader topics in machine learning, including adversarial rob
 - [**Black-box Adversarial Attack with Transferable Model-Based Embedding**](https://openreview.net/pdf?id=SJxhNTNYwB)<br />**Zhichao Huang**, Tong Zhang
   <br />Eighth International Conference on Learning Representations (ICLR 2020)
   <br />[[code](https://github.com/TransEmbedBA/TREMBA)]
-- [**Hessian-Aware Zeroth-Order Optimization for Black-box Adversarial Attack**](https://arxiv.org/pdf/1812.11377)
+- [**Hessian-Aware Zeroth-Order Optimization**](https://arxiv.org/pdf/1812.11377)
   <br />Haishan Ye, **Zhichao Huang**, Cong Fang, Chris Junchi Li, Tong Zhang
-  <br />NeurIPS Workshop on Beyond First Order Methods in ML, 2019
+  <br />Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)
 - [**Enhancing CNN Incremental Learning Capability with an Expanded Network**](https://ieeexplore.ieee.org/abstract/document/8486457)
   <br />Shanshan Cai\*, Zhuwei Xu\*, **Zhichao Huang**\*, Yueru Chen, C.-C. Jay Kuo
   <br />2018 IEEE International Conference on Multimedia and Expo (ICME 2018) (*\*equal contribution*)
