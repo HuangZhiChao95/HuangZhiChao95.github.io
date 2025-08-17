@@ -14,6 +14,12 @@ I am currently a Research Scientist in ByteDance Seed. Before joining ByteDance,
 <!-- I am interested in broader topics in machine learning large language models. -->
 
 # Tech Reports
+- [**Seed LiveInterpret 2.0: End-to-end Simultaneous Speech-to-speech Translation with Your Voice**](https://arxiv.org/pdf/2507.17527)
+  <br /> Shanbo Cheng, Yu Bao, **Zhichao Huang**, Yu Lu, Ningxin Peng, Lu Xu, Runsheng Yu, *et.al.* 
+  <br /> [[Project Page](https://seed.bytedance.com/en/seed_liveinterpret)]
+- [**Seed-X: Building Strong Multilingual Translation LLM with 7B Parameters**](https://arxiv.org/pdf/2507.13618)
+  <br /> Shanbo Cheng, Yu Bao, Qian Cao, Luyang Huang, Liyan Kang, Zhicheng Liu, Yu Lu, Wenhao Zhu, **Zhichao Huang**, Tao Li, Sitong Liu, Ningxin Peng, Shuaijie She, Lu Xu, *et.al.* 
+  <br /> [[Project Page](https://github.com/ByteDance-Seed/Seed-X-7B)]
 - [**Towards Achieving Human Parity on End-to-end Simultaneous Speech Translation via LLM Agent**](https://arxiv.org/pdf/2407.21646)
   <br /> Shanbo Cheng, **Zhichao Huang**, Tom Ko, Hang Li, Ningxin Peng, Lu Xu, Qini Zhang ($\alpha-\beta$ order)
   <br /> [[project page](https://byteresearchcla.github.io/clasi/)]
@@ -94,4 +100,4 @@ I am currently a Research Scientist in ByteDance Seed. Before joining ByteDance,
 - HKUST Postgraduate Studentship, 2018-2022
 
 # Academic Service
-- Reviewer of ICML, NeurIPS, ICLR, T-PAMI, IJCV, SIMODS
+- Reviewer of ICML, NeurIPS, ICLR, T-PAMI, IJCV, SIMODS, ACL *etc*.
