@@ -22,10 +22,10 @@ I am currently a Research Scientist in ByteDance Seed. Before joining ByteDance,
   <br /> [[Project Page](https://github.com/ByteDance-Seed/Seed-X-7B)]
 - [**Towards Achieving Human Parity on End-to-end Simultaneous Speech Translation via LLM Agent**](https://arxiv.org/pdf/2407.21646)
   <br /> Shanbo Cheng, **Zhichao Huang**, Tom Ko, Hang Li, Ningxin Peng, Lu Xu, Qini Zhang ($\alpha-\beta$ order)
-  <br /> [[project page](https://byteresearchcla.github.io/clasi/)]
+  <br /> [[Project page](https://byteresearchcla.github.io/clasi/)]
 - [**Speech Translation with Large Language Models: An Industrial Practice**](https://arxiv.org/pdf/2312.13585.pdf)
   <br /> **Zhichao Huang**, Rong Ye, Tom Ko, Qianqian Dong, Shanbo Cheng, Mingxuan Wang, Hang Li
-  <br /> [[demo](https://speechtranslation.github.io/llm-st/)]
+  <br /> [[Demo](https://speechtranslation.github.io/llm-st/)]
 
 # Publications
 - [**SeqPO-SiMT: Sequential Policy Optimization for Simultaneous Machine Translation**](https://arxiv.org/pdf/2505.20622)
@@ -34,33 +34,33 @@ I am currently a Research Scientist in ByteDance Seed. Before joining ByteDance,
 - [**On the Impact of Hard Adversarial Instances on Overfitting in Adversarial Training**](https://www.jmlr.org/papers/volume25/22-0950/22-0950.pdf)
   <br />Chen Liu, **Zhichao Huang**, Mathieu Salzmann, Tong Zhang, Sabine Süsstrunk
   <br /> Journal of Machine Learning Research (JMLR)
-  <br /> [[code](https://github.com/IVRL/RobustOverfit-HardInstance)]
+  <br /> [[Code](https://github.com/IVRL/RobustOverfit-HardInstance)]
 - [**RepCodec: A Speech Representation Codec for Speech Tokenization**](https://arxiv.org/pdf/2309.00169.pdf)
   <br /> **Zhichao Huang**\*, Chutong Meng\*, Tom Ko
   <br /> The 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024) [Oral]
-  <br /> [[code](https://github.com/mct10/RepCodec)]
+  <br /> [[Code](https://github.com/mct10/RepCodec)]
 - [**Fast Adversarial Training with Adaptive Step Size**](https://arxiv.org/pdf/2206.02417)
   <br /> **Zhichao Huang**, Yanbo Fan, Chen Liu, Weizhong Zhang, Yong Zhang, Mathieu Salzmann, Sabine Süsstrunk, Jue Wang
   <br /> Transcation on Image Processing (TIP)
-  <br /> [[code](https://github.com/HuangZhiChao95/ATAS)]
+  <br /> [[Code](https://github.com/HuangZhiChao95/ATAS)]
 - [**Towards Stable and Efficient Adversarial Training against $\ell_1$  Bounded Adversarial Attacks**](https://proceedings.mlr.press/v202/jiang23f/jiang23f.pdf)
   <br /> Yulun Jiang, Chen Liu, **Zhichao Huang**, Mathieu Salzmann, Sabine Süsstrunk
   <br /> Fortieth International Conference on Machine Learning (ICML 2023)
-  <br /> [[code](https://github.com/IVRL/FastAdvL1)]
+  <br /> [[Code](https://github.com/IVRL/FastAdvL1)]
 - [**Black-Box Prompt Learning for Pre-trained Language Models**](https://openreview.net/forum?id=IvsGP7xRvm)
   <br /> Shizhe Diao, **Zhichao Huang**, Ruijia Xu, Xuechun Li, Yong Lin, Xiao Zhou, Tong Zhang
   <br /> Transactions on Machine Learning Research (TMLR)
-  <br /> [[code](https://github.com/shizhediao/Black-Box-Prompt-Learning)]
+  <br /> [[Code](https://github.com/shizhediao/Black-Box-Prompt-Learning)]
 - [**Few-Shot Human Motion Transfer by Personalized Geometry and Texture Modeling**](https://arxiv.org/pdf/2103.14338)
   <br />**Zhichao Huang**, Xintong Han, Jia Xu, Tong Zhang
   <br />2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2021)
-  <br />[[code](https://github.com/HuangZhiChao95/FewShotMotionTransfer)][[video](https://youtu.be/ZJ15X-sdKSU)]
+  <br />[[Code](https://github.com/HuangZhiChao95/FewShotMotionTransfer)][[Video](https://youtu.be/ZJ15X-sdKSU)]
 - [**Stochastic Recursive Gradient Descent Ascent for Stochastic Nonconvex-Strongly-Concave Minimax Problems**](https://proceedings.neurips.cc/paper/2020/file/ecb47fbb07a752413640f82a945530f8-Paper.pdf)
   <br />Luo Luo, Haishan Ye, **Zhichao Huang**, Tong Zhang
   <br />34th Conference on Neural Information Processing Systems (NeurIPS 2020)
 - [**Black-box Adversarial Attack with Transferable Model-Based Embedding**](https://openreview.net/pdf?id=SJxhNTNYwB)<br />**Zhichao Huang**, Tong Zhang
   <br />Eighth International Conference on Learning Representations (ICLR 2020)
-  <br />[[code](https://github.com/TransEmbedBA/TREMBA)]
+  <br />[[Code](https://github.com/TransEmbedBA/TREMBA)]
 - [**Hessian-Aware Zeroth-Order Optimization**](https://arxiv.org/pdf/1812.11377)
   <br />Haishan Ye, **Zhichao Huang**, Cong Fang, Chris Junchi Li, Tong Zhang
   <br />Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)
