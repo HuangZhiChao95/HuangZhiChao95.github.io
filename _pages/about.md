@@ -29,7 +29,7 @@ I am currently a Research Scientist in ByteDance Seed. Before joining ByteDance,
 
 # Publications
 - [**SeqPO-SiMT: Sequential Policy Optimization for Simultaneous Machine Translation**](https://arxiv.org/pdf/2505.20622)
-  <br />Ting Xu, **Zhichao Huang†**, Jiankai Sun, Shanbo Cheng, Wai Lam
+  <br />Ting Xu, **Zhichao Huang†**, Jiankai Sun, Shanbo Cheng†, Wai Lam
   <br /> ACL 2025 Findings (†correspoding author)
 - [**On the Impact of Hard Adversarial Instances on Overfitting in Adversarial Training**](https://www.jmlr.org/papers/volume25/22-0950/22-0950.pdf)
   <br />Chen Liu, **Zhichao Huang**, Mathieu Salzmann, Tong Zhang, Sabine Süsstrunk
